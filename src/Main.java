@@ -4,7 +4,7 @@ public class Main {
         System.out.println(" Lab 3");
 
                 Task1.task1();
-                /*Task2.task2();
+                Task2.task2();
                 /*Task3.task3();*/
     }
 }
