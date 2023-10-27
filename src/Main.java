@@ -5,6 +5,6 @@ public class Main {
 
                 Task1.task1();
                 Task2.task2();
-                /*Task3.task3();*/
+                Task3.task3();
     }
 }
